@@ -17,6 +17,3 @@ Let's get started with Markdown!
 def green(name):
   print(f"Hello, {name}!")
  green("World")
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
